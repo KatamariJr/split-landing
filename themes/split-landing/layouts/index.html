@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="container">
+    <div class="split left" style="background: url({{ .Site.Params.LeftJpg }}) center center no-repeat; background-size: cover">
+        <p class="h1">{{ .Site.Params.LeftTitle }}</p>
+        <p class="h2">{{ .Site.Params.LeftSubTitle }}</p>
+        <a href="{{ .Site.Params.LeftLink }}" class="button">{{ .Site.Params.LeftButtonText }}</a>
+    </div>
+    <div class="split right" style="background: url({{ .Site.Params.RightJpg }}) center center no-repeat; background-size: cover">
+        <p class="h1">{{ .Site.Params.RightTitle }}</p>
+        <p class="h2">{{ .Site.Params.RightSubTitle }}</p>
+        <a href="{{ .Site.Params.RightLink }}" class="button">{{ .Site.Params.RightButtonText }}</a>
+    </div>
+</div>
+{{ end }}
