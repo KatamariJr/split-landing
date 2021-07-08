@@ -6,7 +6,13 @@ Originally from this [Youtube video](https://www.youtube.com/watch?v=oRmQN244Ir0
 # Take it for a test drive
 
 1. `git clone` this repo anywhere you want.
-2. Navigate into the `/exampleSite` directory and run `hugo serve`
+2. Navigate into the `/exampleSite` directory 
+1. Create a symbolic link up to the theme directory.
+    ```
+    $ mkdir themes
+    $ ln ../ ./themes/split-landing -rs
+    ```   
+1. Run `hugo serve`
 1. Poke around!
 
 # Setup and Configuration
