@@ -3,7 +3,7 @@
 
 name = "Split Landing"
 license = "MIT"
-licenselink = "https://github.com/KatamariJr/split-landing/blob/master/themes/split-landing/LICENSE"
+licenselink = "https://github.com/KatamariJr/split-landing/blob/master/LICENSE"
 description = "A split-landing page to link to two other websites. Modified from original source at https://codepen.io/bradtraversy/pen/dJzzdB "
 homepage = "https://github.com/KatamariJr/split-landing"
 demosite = ""

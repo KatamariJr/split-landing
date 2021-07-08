@@ -6,7 +6,7 @@ theme = "split-landing"
 [params]
     showCenterTitleAndImage = true #disable the center title and logo image
     mainTitle = "Cool Things!"
-    mainImage = "/images/logo.png"
+    mainImage = "/images/logoipsum.svg"
     leftTitle = "Left Title"
     leftSubTitle = "Left Subtitle"
     leftJpg = "/images/audio.jpg"
