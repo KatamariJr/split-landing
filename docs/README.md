@@ -1,0 +1,1 @@
+This directory is the example site HTML files that are served via Github Pages. This is meant to be viewed as a demo for the theme.
