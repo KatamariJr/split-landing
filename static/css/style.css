@@ -175,7 +175,14 @@ html, body {
         font-size: 2rem;
         white-space: normal;
         text-align: center;
+    }
 
+    .centerH1 {
+        font-size: 1.5rem;
+    }
+
+    .centerLogo {
+        max-width: 100px;
     }
 
     .h2 {
