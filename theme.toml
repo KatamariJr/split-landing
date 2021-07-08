@@ -9,7 +9,7 @@ homepage = "https://github.com/KatamariJr/split-landing"
 demosite = ""
 tags = ["landing"]
 features = []
-min_version = "0.41.0"
+min_version = "0.55.0"
 
 [author]
   name = "Katajun"
