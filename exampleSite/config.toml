@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Galaktik"
+title = "Split Landing Example"
 theme = "split-landing"
 
 [params]

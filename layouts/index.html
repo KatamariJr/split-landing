@@ -1,9 +1,11 @@
 {{ define "main" }}
 <div class="container">
-    <div class="logoHolder">
-        <img class= "centerLogo" src="{{ .Site.Params.MainImage }}"/>
-    </div>
-    <div class="centerH1">{{ .Site.Params.MainTitle }}</div>
+    {{ if .Site.Params.ShowCenterTitleAndImage }}
+        <div class="logoHolder">
+            <img class= "centerLogo" src="{{ .Site.Params.MainImage }}"/>
+        </div>
+        <div class="centerH1">{{ .Site.Params.MainTitle }}</div>
+    {{ end }}
     <div class="split left" style="background: url({{ .Site.Params.LeftJpg }}) center center no-repeat; background-size: cover">
         <p class="h1">{{ .Site.Params.LeftTitle }}</p>
         <p class="h2">{{ .Site.Params.LeftSubTitle }}</p>
