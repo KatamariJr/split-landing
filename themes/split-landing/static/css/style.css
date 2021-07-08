@@ -18,6 +18,38 @@ html, body {
     overflow-x: hidden;
 }
 
+.centerH1 {
+    color: #fff;
+    font-size: 3rem;
+    z-index: 90;
+    position: absolute;
+    top: 50px;
+    text-align: center;
+    width: 100%;
+}
+
+.centerLogo {
+    z-index: 89;
+    position: relative;
+    display:block;
+    top: 20px;
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    max-height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.logoHolder {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    top: 20px;
+    height:auto;
+}
+
 .h1 {
     font-size: 4rem;
     color: #fff;
