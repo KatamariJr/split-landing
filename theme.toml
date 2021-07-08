@@ -6,8 +6,8 @@ license = "MIT"
 licenselink = "https://github.com/KatamariJr/split-landing/blob/master/LICENSE"
 description = "A split-landing page to link to two other websites. Modified from original source at https://codepen.io/bradtraversy/pen/dJzzdB "
 homepage = "https://github.com/KatamariJr/split-landing"
-demosite = ""
-tags = ["landing"]
+demosite = "https://katamarijr.github.io/split-landing/"
+tags = ["landing", "split"]
 features = []
 min_version = "0.55.0"
 
