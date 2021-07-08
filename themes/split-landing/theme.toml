@@ -3,19 +3,20 @@
 
 name = "Split Landing"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
-homepage = "http://example.com/"
-tags = []
+licenselink = "https://github.com/KatamariJr/split-landing/blob/master/themes/split-landing/LICENSE"
+description = "A split-landing page to link to two other websites. Modified from original source at https://codepen.io/bradtraversy/pen/dJzzdB "
+homepage = "https://github.com/KatamariJr/split-landing"
+demosite = ""
+tags = ["landing"]
 features = []
 min_version = "0.41.0"
 
 [author]
   name = "Katajun"
-  homepage = ""
+  homepage = "https://katajunmusic.com"
 
 # If porting an existing theme
 [original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "Brad Traversy"
+  homepage = "https://codepen.io/bradtraversy/pen/dJzzdB"
+  repo = "https://codepen.io/bradtraversy/pen/dJzzdB"
