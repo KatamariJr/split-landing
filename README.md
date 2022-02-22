@@ -1,6 +1,8 @@
 # Split Landing
 ### A clean Hugo theme to redirect visitors to multiple sites.
 
+[Demo site here.](https://katamarijr.github.io/split-landing/)
+
 Originally from this [Youtube video](https://www.youtube.com/watch?v=oRmQN244Ir0) and [Codepen example](https://codepen.io/bradtraversy/pen/dJzzdB) by Brad Traversy.
 
 # Take it for a test drive
